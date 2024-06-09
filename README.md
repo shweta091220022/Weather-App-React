@@ -1,3 +1,5 @@
+#weather app react
+
 A simple weather application built with HTML, CSS, JavaScript, and React. This app fetches weather data from an API and displays the current weather conditions for a specified location.
 
 Features
