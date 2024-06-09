@@ -1,6 +1,7 @@
 
 
 # dependencies
+/__MACOSX
 /node_modules
 /.pnp
 .pnp.js
